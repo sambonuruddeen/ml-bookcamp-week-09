@@ -9,7 +9,7 @@ The code is finally packaged in as Docker Image for easy deployment.
 
 # How to Run
 
-1- Download this Resitory
+1- Download this Repository
 
 2- Open Terminal in the project directory
 
